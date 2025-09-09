@@ -19,7 +19,7 @@ Judge0 REST API, averaging 1.3s response time.
 
 - Contracted to develop a professional artist portfolio website in 4 weeks using React, Node.js Express, Airtable API,
 and Resend email API, resulting in 10% increase in client sales post-launch.
-• Built responsive gallery interface with 4 custom API endpoints for dynamic artwork management, displaying realtime availability status, and streamlined contact forms.
+- Built responsive gallery interface with 4 custom API endpoints for dynamic artwork management, displaying realtime availability status, and streamlined contact forms.
 
 🔭 I’m currently working on an AI-powered fitness automation ecosystem that uses specialized AI agents connected through n8n workflows to intelligently manage health data, schedule workouts, and provide personalized fitness insights. 🏃 Users interact with the system through a React web interface with Node.js backend and PostgreSQL database, creating a seamless personal fitness management experience! ✨
 
