@@ -25,4 +25,4 @@ and Resend email API, resulting in 10% increase in client sales post-launch.
 
 🌱 I am passionate about my hobby of Home-Labbing and Networking, and love experimenting with creative Smart Home Automation solutions via Home Assistant ecosystem 🧠
 
-📫 Feel free to reach out! - riley@rsweeting.com
+📫 Feel free to reach out! - riley@rsweeting.com | [LinkedIn](https://www.linkedin.com/in/riley-sweeting/)
